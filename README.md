@@ -9,7 +9,7 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-![My card name](https://cardivo.vercel.app/api?name=RUSH-MASTER%20&description=Hi,%20Welcome%20To%20My%20Profile%20I%20AM%20BOT%20DEPLOYER&image=https://avatars.githubusercontent.com/u/160727728?s=400&u=30b71fc499af61141695baec7d4171bd87dd2f69&v=4&backgroundColor=%23e4f2f6&instagram=hrutik_official_12&github=RUSH-MASTER&)
+![My card name](https://cardivo.vercel.app/api?name=RUSH-MASTER%20&description=Hi,%20Welcome%20To%20My%20Profile%20I%20AM%20BOT%20DEPLOYER&image=[https://avatars.githubusercontent.com/u/160727728?s=400&u=30b71fc499af61141695baec7d4171bd87dd2f69&v=4](https://avatars.githubusercontent.com/u/173770152?s=400&u=b3aa328e9445e4646483914c1b45b52a54dfa7c5&v=4)&backgroundColor=%23e4f2f6&instagram=hrutik_official_12&github=RUSH-MASTER&)
 </p>
 
 
